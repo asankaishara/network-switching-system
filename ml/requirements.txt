@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+matplotlib
+joblib
+fastapi
+uvicorn[standard]
+requests
